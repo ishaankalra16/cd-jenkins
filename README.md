@@ -1,6 +1,6 @@
 # Vprofile-project
 
-A demo application integrated, tested and analysed with the tools such as Jenkins, Nexus, SonarQube that send every notification to desired slack regarding every build of the pipeline. 
+A project deployed with the help of Continous Integration/Continous Delivery pipeline with the help the tools such as Jenkins, Nexus, SonarQube that send every notification to desired slack channel regarding every build of the pipeline. 
 
 # Prerequisites
 # 
@@ -56,7 +56,6 @@ A demo application integrated, tested and analysed with the tools such as Jenkin
 - Create Job to run Software Tests(Selenium) from Windows Server
 - Deploy artifact to Porduction Server
 - Connect all Jobs with Build Pipeline
-- 
 
 # Database
 Here,we used Mysql DB 
@@ -100,6 +99,3 @@ Then look for the file :
 ![Screenshot (378)](https://user-images.githubusercontent.com/68735863/152753407-1e2c2b82-16b2-4f67-b758-5c2a57ee1f28.png)
 
 ![Screenshot (379)](https://user-images.githubusercontent.com/68735863/152753428-442494df-ecb6-4f4e-914c-0a8121a18946.png)
-
-
-
