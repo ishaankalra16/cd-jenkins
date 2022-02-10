@@ -1,7 +1,7 @@
 This project has been forked from the Github repository: https://github.com/devopshydclub/vprofile-project.git
 # Vprofile-project
 
-A project deployed with the help of Continous Integration/Continous Delivery pipeline with the help the tools such as Jenkins, Nexus, SonarQube that send every notification to desired slack channel regarding every build of the pipeline. 
+A project deployed with the help of Continuous Integration/Continuous Delivery pipeline with the help the tools such as Jenkins, Nexus, SonarQube that send every notification to desired slack channel regarding every build of the pipeline. 
 
 # Prerequisites
 # 
